@@ -1,0 +1,16 @@
+
+Running C:\Users\tmric\Code\Checksum\main.py [2024-05-28 06:39:38]
+[06:39:38]    Running "check_newFiles()"
+[06:39:38]    Running "refresh_hashmap()"
+
+Running C:\Users\tmric\Code\Checksum\main.py [2024-05-28 06:40:26]
+[06:40:26]    Running "check_newFiles()"
+[06:40:26]    Running "refresh_hashmap()"
+
+Running C:\Users\tmric\Code\Checksum\main.py [2024-05-28 06:41:45]
+[06:41:45]    Running "check_newFiles()"
+[06:41:45]    Running "refresh_hashmap()"
+
+Running C:\Users\tmric\Code\Checksum\main.py [2024-05-28 06:43:58]
+[06:43:58]    Running "check_newFiles()"
+[06:43:58]    Running "refresh_hashmap()"
